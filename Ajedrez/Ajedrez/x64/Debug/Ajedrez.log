@@ -1,0 +1,4 @@
+﻿  Ajedrez.cpp
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Ajedrez\Ajedrez\Ajedrez.cpp(28,44): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Ajedrez\Ajedrez\Ajedrez.cpp(28,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Ajedrez.vcxproj -> D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Ajedrez\x64\Debug\Ajedrez.exe
