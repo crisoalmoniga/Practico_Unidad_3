@@ -1,0 +1,12 @@
+﻿  Transparencias.cpp
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Transparencias\Transparencias\Transparencias.cpp(24,94): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Transparencias\Transparencias\Transparencias.cpp(24,59): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Transparencias.vcxproj -> D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Transparencias\x64\Debug\Transparencias.exe
