@@ -1,0 +1,6 @@
+﻿  Cuadrados.cpp
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Cuadrados\Cuadrados\Cuadrados.cpp(55,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Cuadrados\Cuadrados\Cuadrados.cpp(56,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Cuadrados\Cuadrados\Cuadrados.cpp(57,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Cuadrados\Cuadrados\Cuadrados.cpp(57,30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Cuadrados.vcxproj -> D:\Universidad - Cris\Videojuegos\Universidad del Litoral\MAVI\Practico_Unidad_3\Cuadrados\x64\Debug\Cuadrados.exe
